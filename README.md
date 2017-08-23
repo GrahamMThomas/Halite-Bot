@@ -1,6 +1,6 @@
 # Halite AI Bot: *Lord of the Stump*
 
-**Lord of the Stump** is an AI swarm bot that was used in the AI Challenge at Halite.io. The objective is to battle other AIs and the winner is raised up in the ranks. When I was developing this final iteration. I was ranked ~55 out of 1100 people. A couple months later when the competition concluded Lord of the Stump was still rank 145. See gif below for an example game feature this bot.
+**Lord of the Stump** is an AI swarm bot that was used in the AI Challenge at Halite.io. The objective is to battle other AIs and the winner is raised up in the ranks. When I was developing this final iteration. I was ranked ~55 out of 1100 people. A couple months later, when the competition concluded, Lord of the Stump was still rank 145. See gif below for an example game feature this bot.
 
 Submitted by: **Graham Thomas**
 
