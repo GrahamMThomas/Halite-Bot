@@ -18,7 +18,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Props to the Halite team who put this on. I really enjoyed it. 
 
-When developing the AI, if must only issue commands to each block based on the information it has. Unless you program it, you cannot simply tell all the blocks to move a certain way. Each, block must be controlled individually. 
+When developing the AI, if must only issue commands to each block based on the information it has. Unless you program it, you cannot simply tell all the blocks to move a certain way. Each block must be controlled individually. 
 
 ## License
 
