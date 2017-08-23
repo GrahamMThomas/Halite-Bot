@@ -10,7 +10,7 @@ Time spent: **32** hours spent in total
 
 Here's gameplay from the Halite tournament:
 
-![alt text](https://github.com/GrahamMThomas/Halite-Bot/blob/master/demo.gif "Demo")
+![alt text](https://github.com/GrahamMThomas/Halite-Bot/blob/master/Halite_gameplay.gif "Demo")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
